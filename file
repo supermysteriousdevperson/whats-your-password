@@ -1,2 +1,3 @@
-Instead of loving your enemies, treat your friends a little better.
-		-- Edgar W. Howe
+FORTRAN?  The syntactically incorrect statement "DO 10 I = 1.10" will parse and
+generate code creating a variable, DO10I, as follows: "DO10I = 1.10"  If that
+doesn't terrify you, it should.
