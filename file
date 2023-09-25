@@ -1,3 +1,20 @@
-FORTRAN?  The syntactically incorrect statement "DO 10 I = 1.10" will parse and
-generate code creating a variable, DO10I, as follows: "DO10I = 1.10"  If that
-doesn't terrify you, it should.
+Snow-white!  Snow-white!  O Lady clear!
+O Queen beyond the Western Sea!
+O Light to us that wander here
+Amid the world of woven trees!
+
+	Gilthoniel!  O Elbereth!
+	Clear are thy eyes and bright thy breath!
+	Snow-white!  Snow-white!  We sing to thee
+	In a far land beyond the Sea.
+
+O stars that in the Sunless Year
+With shining hand by her were sown,
+In windy fields now bright and clear
+We see you silver blossom blown!
+
+	O Elbereth!  Gilthoniel!
+	We still remember, we who dwell
+	In this far land beneath the trees,
+	Thy starlight on the Western Seas.
+		-- J. R. R. Tolkien
